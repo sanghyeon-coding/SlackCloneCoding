@@ -1,0 +1,1 @@
+{"version":3,"file":"808.js","mappings":"2IAMA,UAJgB,WACd,OAAO","sources":["webpack://sleact-ts-front/./pages/Channel/index.tsx"],"sourcesContent":["import React from 'react';\n\nconst Channel = () => {\n  return <div>로그인하신 것을 축하드려요!</div>;\n};\n\nexport default Channel;\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"474.js","mappings":"4IAMA,UAJsB,WACpB,OAAO","sources":["webpack://sleact-ts-front/./pages/DirectMessage/index.tsx"],"sourcesContent":["import React from 'react';\n\nconst DirectMessage = () => {\n  return <div>로그인하신 것을 축하드려요! - DM</div>;\n};\n\nexport default DirectMessage;\n"],"names":[],"sourceRoot":""}
